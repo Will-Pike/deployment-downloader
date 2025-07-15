@@ -1,0 +1,21 @@
+{
+  "name": "deployment-downloader",
+  "version": "1.0.0",
+  "main": "deployment-downloader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "mime-types": "^3.0.1",
+    "node-fetch": "^2.7.0",
+    "path": "^0.12.7",
+    "sharp": "^0.34.3"
+  },
+  "description": ""
+}

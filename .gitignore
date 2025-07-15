@@ -1,0 +1,5 @@
+node_modules/
+downloads/
+validation-report.json
+validation-report.csv
+deployment.json
